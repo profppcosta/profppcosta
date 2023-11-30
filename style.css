@@ -4,7 +4,7 @@ header{
 }
 
 body{
-    background-color: #836FFF;
+    background-color: #bab1f1;
     align-items:center
 }
 /*Define margem e preenchimento com zero para todos os elementos*/
@@ -14,7 +14,7 @@ body{
 }
 
 .cabecalho {
-    background-color: #FFFACD; /*Define a cor de fundo */
+    background-color: #f8edfa; /*Define a cor de fundo */
     color: #0000FF; /* Define a cor do texto como azul */
     display: flex; /* Usa um layout flexível */
     justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
